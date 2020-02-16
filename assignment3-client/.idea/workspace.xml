@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d54fe1b7-0b83-41e5-8dac-6897148c0af8" name="Default" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppenderTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppenderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-135">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="e#1634#1635#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="281" column="49" lean-forward="true" selection-start-line="281" selection-start-column="49" selection-end-line="281" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/CreateRandomLogs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+                <folding>
+                  <element signature="e#206#217#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>report</find>
+      <find>sear</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Layout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/VelocityLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/CreateRandomLogs.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppenderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppender.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="assignment3-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="assignment3-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="240" />
+    <option name="y" value="20" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="nz.ac.vuw.swen301.assignment3.client" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nz.ac.vuw.swen301.assignment3.client" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Resthome4LogsAppenderTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateRandomLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.client.CreateRandomLogs" />
+      <module name="assignment3-client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.client.LogMonitor" />
+      <module name="assignment3-client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Resthome4LogsAppenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.client" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.client.Resthome4LogsAppenderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Resthome4LogsAppenderTest.testAValidAppend3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.client" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.client.Resthome4LogsAppenderTest" />
+      <option name="METHOD_NAME" value="testAValidAppend3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Resthome4LogsAppenderTest.testAValidAppend4Stats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.client" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.client.Resthome4LogsAppenderTest" />
+      <option name="METHOD_NAME" value="testAValidAppend4Stats" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CreateRandomLogs" />
+      <item itemvalue="Application.LogMonitor" />
+      <item itemvalue="JUnit.Resthome4LogsAppenderTest" />
+      <item itemvalue="JUnit.Resthome4LogsAppenderTest.testAValidAppend3" />
+      <item itemvalue="JUnit.Resthome4LogsAppenderTest.testAValidAppend4Stats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Resthome4LogsAppenderTest" />
+        <item itemvalue="Application.LogMonitor" />
+        <item itemvalue="Application.CreateRandomLogs" />
+        <item itemvalue="JUnit.Resthome4LogsAppenderTest.testAValidAppend4Stats" />
+        <item itemvalue="JUnit.Resthome4LogsAppenderTest.testAValidAppend3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54fe1b7-0b83-41e5-8dac-6897148c0af8" name="Default" comment="" />
+      <created>1557896490529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557896490529</updated>
+      <workItem from="1557896492177" duration="1401000" />
+      <workItem from="1558311783867" duration="59000" />
+      <workItem from="1558504909562" duration="111000" />
+      <workItem from="1559120335463" duration="2888000" />
+      <workItem from="1559123241859" duration="199000" />
+      <workItem from="1559129832564" duration="5977000" />
+      <workItem from="1559183619863" duration="1505000" />
+      <workItem from="1559256395201" duration="786000" />
+      <workItem from="1559257982395" duration="114000" />
+      <workItem from="1559452881367" duration="1859000" />
+      <workItem from="1559560880534" duration="416000" />
+      <workItem from="1559561502835" duration="9000" />
+      <workItem from="1559561526374" duration="800000" />
+      <workItem from="1559706372124" duration="237000" />
+      <workItem from="1559717481722" duration="1187000" />
+      <workItem from="1559722716986" duration="110000" />
+      <workItem from="1559970444021" duration="195000" />
+      <workItem from="1559973674795" duration="741000" />
+      <workItem from="1559974771359" duration="3859000" />
+      <workItem from="1559982048518" duration="3290000" />
+      <workItem from="1560049564708" duration="11515000" />
+      <workItem from="1560147795040" duration="205000" />
+      <workItem from="1560148280193" duration="3208000" />
+      <workItem from="1560320263149" duration="619000" />
+      <workItem from="1560320927643" duration="447000" />
+      <workItem from="1560321688002" duration="6293000" />
+      <workItem from="1560405736800" duration="991000" />
+      <workItem from="1560407694681" duration="741000" />
+      <workItem from="1560409749417" duration="5810000" />
+      <workItem from="1560465289956" duration="5236000" />
+      <workItem from="1560493100608" duration="3443000" />
+      <workItem from="1560504386153" duration="110000" />
+      <workItem from="1560587985067" duration="9375000" />
+      <workItem from="1560600990554" duration="1472000" />
+      <workItem from="1560670638151" duration="1584000" />
+      <workItem from="1560741151211" duration="6812000" />
+      <workItem from="1560756120429" duration="11081000" />
+      <workItem from="1560777561997" duration="4759000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1557896827194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557896827194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added class">
+      <created>1557899268014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557899268014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="started on thw GUI">
+      <created>1559123218922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559123218922</updated>
+    </task>
+    <task id="LOCAL-00004" summary="I HATE SWING, IT HAS GIVEN ME CANCER">
+      <created>1559135210382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559135210382</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ignore test">
+      <created>1559135796327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559135796327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="most of client now works, stats still doesnt work and need to do tests">
+      <created>1560329315191</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560329315191</updated>
+    </task>
+    <task id="LOCAL-00007" summary="small changes to layout">
+      <created>1560348523641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560348523641</updated>
+    </task>
+    <task id="LOCAL-00008" summary="no change">
+      <created>1560408044735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560408044735</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jdepend works, spotbugs works, jacoco works">
+      <created>1560415637777</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560415637777</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a couple of tests work">
+      <created>1560417159229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560417159229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added logger.setLevel test">
+      <created>1560467942126</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560467942126</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixing compile warnings">
+      <created>1560773410310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560773410310</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixing compile warnings">
+      <created>1560773455852</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560773455852</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixing spotbug errors">
+      <created>1560773780770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560773780770</updated>
+    </task>
+    <task id="LOCAL-00015" summary="readme finished">
+      <created>1560778162068</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560778162068</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added build jar">
+      <created>1560778349636</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560778349636</updated>
+    </task>
+    <task id="LOCAL-00017" summary="final commit">
+      <created>1560780365364</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560780365364</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 01h 24m 28s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 01h 25m 00s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 01h 55m 32s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 01h 56m 13s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest_testAValidAppend4Stats - 2019.06.18 at 02h 02m 05s.xml">
+      <configuration name="Resthome4LogsAppenderTest.testAValidAppend4Stats" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest_testAValidAppend4Stats - 2019.06.18 at 02h 02m 34s.xml">
+      <configuration name="Resthome4LogsAppenderTest.testAValidAppend4Stats" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 02h 03m 55s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 02h 05m 22s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 02h 44m 56s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resthome4LogsAppenderTest - 2019.06.18 at 02h 48m 38s.xml">
+      <configuration name="Resthome4LogsAppenderTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="240" y="20" width="1680" height="1024" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7976783" visible="true" weight="0.22044335" />
+      <window_info id="Structure" order="1" sideWeight="0.20232172" side_tool="true" visible="true" weight="0.22044335" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3178733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32692307" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946582" weight="0.3280543" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32819384" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005342" side_tool="true" weight="0.32819384" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32967034" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.26251528" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added class" />
+    <MESSAGE value="started on thw GUI" />
+    <MESSAGE value="I HATE SWING, IT HAS GIVEN ME CANCER" />
+    <MESSAGE value="ignore test" />
+    <MESSAGE value="most of client now works, stats still doesnt work and need to do tests" />
+    <MESSAGE value="small changes to layout" />
+    <MESSAGE value="no change" />
+    <MESSAGE value="jdepend works, spotbugs works, jacoco works" />
+    <MESSAGE value="a couple of tests work" />
+    <MESSAGE value="added logger.setLevel test" />
+    <MESSAGE value="fixing compile warnings" />
+    <MESSAGE value="fixing spotbug errors" />
+    <MESSAGE value="readme finished" />
+    <MESSAGE value="added build jar" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Main.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <folding>
+              <element signature="e#206#217#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/CreateRandomLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/LogMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="281" column="49" lean-forward="true" selection-start-line="281" selection-start-column="49" selection-end-line="281" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppenderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/client/Resthome4LogsAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

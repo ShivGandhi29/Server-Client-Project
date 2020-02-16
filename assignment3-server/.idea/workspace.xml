@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1108ca57-50e2-4924-900f-37f88e1b6353" name="Default" comment="correct the log levels">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/assignment3server$WhiteBoxTests.ic" NAME="WhiteBoxTests Coverage Results" MODIFIED="1560751535663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nz.ac.vuw.swen301.assignment3.server.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/assignment3server$WhiteBoxTests_testValidStatsServlet.ic" NAME="WhiteBoxTests.testValidStatsServlet Coverage Results" MODIFIED="1560742079913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nz.ac.vuw.swen301.assignment3.server.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/assignment3server$BlackBoxTests.ic" NAME="BlackBoxTests Coverage Results" MODIFIED="1560752305915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nz.ac.vuw.swen301.assignment3.server.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-750">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogsServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/StatsServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/WhiteBoxTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1517">
+              <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/BlackBoxTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>409</find>
+      <find>contentT</find>
+      <find>setpat</find>
+      <find>addLog</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shivang Gandhi &lt;gandhishiv@ecs.vuw.ac.nz&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jetty.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/MainServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Priority.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/AddLogParams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/SearchLogsParams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogEvenrt.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/StatsServlet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/WhiteBoxTests.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Level.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogsServlet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/BlackBoxTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="assignment3-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="20" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment3server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BlackBoxTests">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackBoxTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.server" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.server.BlackBoxTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackBoxTests.testJSONContentType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.server" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.server.BlackBoxTests" />
+      <option name="METHOD_NAME" value="testJSONContentType" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackBoxTests.testStatusCode200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.server" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.server.BlackBoxTests" />
+      <option name="METHOD_NAME" value="testStatusCode200" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackBoxTests.testStatusCode400Post" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.server" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.server.BlackBoxTests" />
+      <option name="METHOD_NAME" value="testStatusCode400Post" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiteBoxTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment3-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nz.ac.vuw.swen301.assignment3.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nz.ac.vuw.swen301.assignment3.server" />
+      <option name="MAIN_CLASS_NAME" value="nz.ac.vuw.swen301.assignment3.server.WhiteBoxTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BlackBoxTests" />
+      <item itemvalue="JUnit.BlackBoxTests.testStatusCode200" />
+      <item itemvalue="JUnit.BlackBoxTests.testStatusCode400Post" />
+      <item itemvalue="JUnit.BlackBoxTests.testJSONContentType" />
+      <item itemvalue="JUnit.WhiteBoxTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlackBoxTests" />
+        <item itemvalue="JUnit.WhiteBoxTests" />
+        <item itemvalue="JUnit.BlackBoxTests.testStatusCode400Post" />
+        <item itemvalue="JUnit.BlackBoxTests.testJSONContentType" />
+        <item itemvalue="JUnit.BlackBoxTests.testStatusCode200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1108ca57-50e2-4924-900f-37f88e1b6353" name="Default" comment="" />
+      <created>1557895436302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557895436302</updated>
+      <workItem from="1557895441662" duration="669000" />
+      <workItem from="1557899282480" duration="1382000" />
+      <workItem from="1557901752612" duration="938000" />
+      <workItem from="1558311846326" duration="1574000" />
+      <workItem from="1558318907274" duration="1257000" />
+      <workItem from="1558494705753" duration="2065000" />
+      <workItem from="1558502272625" duration="798000" />
+      <workItem from="1558503720094" duration="1186000" />
+      <workItem from="1558505917361" duration="5008000" />
+      <workItem from="1558590278851" duration="244000" />
+      <workItem from="1558592632098" duration="940000" />
+      <workItem from="1559111190816" duration="5746000" />
+      <workItem from="1559256297949" duration="33000" />
+      <workItem from="1559257801826" duration="178000" />
+      <workItem from="1559258098071" duration="5016000" />
+      <workItem from="1559383640147" duration="698000" />
+      <workItem from="1559561299517" duration="202000" />
+      <workItem from="1559561513309" duration="12000" />
+      <workItem from="1559617893913" duration="154000" />
+      <workItem from="1559715672251" duration="1791000" />
+      <workItem from="1559718880271" duration="3282000" />
+      <workItem from="1559723063546" duration="2766000" />
+      <workItem from="1559971373703" duration="353000" />
+      <workItem from="1559974420143" duration="349000" />
+      <workItem from="1559982028502" duration="741000" />
+      <workItem from="1560049950275" duration="16723000" />
+      <workItem from="1560148002500" duration="1610000" />
+      <workItem from="1560319074827" duration="1163000" />
+      <workItem from="1560320324584" duration="557000" />
+      <workItem from="1560320927650" duration="536000" />
+      <workItem from="1560321794256" duration="5740000" />
+      <workItem from="1560385312186" duration="416000" />
+      <workItem from="1560405552671" duration="1194000" />
+      <workItem from="1560406791655" duration="899000" />
+      <workItem from="1560407725126" duration="734000" />
+      <workItem from="1560408813838" duration="5343000" />
+      <workItem from="1560465283651" duration="3520000" />
+      <workItem from="1560491346815" duration="23000" />
+      <workItem from="1560491375631" duration="207000" />
+      <workItem from="1560492369542" duration="8881000" />
+      <workItem from="1560503897675" duration="430000" />
+      <workItem from="1560571368119" duration="7569000" />
+      <workItem from="1560598163724" duration="2400000" />
+      <workItem from="1560600992809" duration="2436000" />
+      <workItem from="1560670641873" duration="4384000" />
+      <workItem from="1560724220742" duration="23382000" />
+      <workItem from="1560756056024" duration="18096000" />
+      <workItem from="1560777560132" duration="5591000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1557896325019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557896325019</updated>
+    </task>
+    <task id="LOCAL-00002" summary="setup jetty">
+      <created>1557900418557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557900418558</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added an XML file">
+      <created>1557903771098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557903771098</updated>
+    </task>
+    <task id="LOCAL-00004" summary="random helloworld class">
+      <created>1557903841825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557903841825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created webapp dir">
+      <created>1558312581838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558312581838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edited web.xml file and removed jetty file">
+      <created>1558313604781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558313604781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added stuff to web.xml">
+      <created>1558320688927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558320688927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added stuff to web.xml">
+      <created>1558320718727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558320718727</updated>
+    </task>
+    <task id="LOCAL-00009" summary="followed tutorial 5 for some random stuff">
+      <created>1558497248661</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558497248661</updated>
+    </task>
+    <task id="LOCAL-00010" summary="started whitebox testing with springframework">
+      <created>1558514325044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558514325044</updated>
+    </task>
+    <task id="LOCAL-00011" summary="stats servlet">
+      <created>1558590513358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558590513358</updated>
+    </task>
+    <task id="LOCAL-00012" summary="messing around with logs">
+      <created>1558593122271</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558593122271</updated>
+    </task>
+    <task id="LOCAL-00013" summary="log4j.properties file added">
+      <created>1559116508409</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559116508409</updated>
+    </task>
+    <task id="LOCAL-00014" summary="started json output">
+      <created>1559263721624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559263721624</updated>
+    </task>
+    <task id="LOCAL-00015" summary="json format">
+      <created>1559723394341</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559723394341</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Big Commit of assignment, most of code now works, still need to do stats and all of testing">
+      <created>1560329285159</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560329285159</updated>
+    </task>
+    <task id="LOCAL-00017" summary="started testing">
+      <created>1560331197703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560331197703</updated>
+    </task>
+    <task id="LOCAL-00018" summary="implemented jar support when you run mvn package for log monitor and random logs&#10;&#10;tests dont work">
+      <created>1560348489166</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560348489166</updated>
+    </task>
+    <task id="LOCAL-00019" summary="port 8080 is already in use error">
+      <created>1560408022903</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560408022903</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test1 working!">
+      <created>1560410248091</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560410248092</updated>
+    </task>
+    <task id="LOCAL-00021" summary="spot bugs working">
+      <created>1560410999090</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1560410999090</updated>
+    </task>
+    <task id="LOCAL-00022" summary="reimplemented jar files">
+      <created>1560412015035</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560412015035</updated>
+    </task>
+    <task id="LOCAL-00023" summary="jacoco works, sportbugs works, jdepend works">
+      <created>1560415612089</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1560415612089</updated>
+    </task>
+    <task id="LOCAL-00024" summary="pushing for no reason">
+      <created>1560417201156</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1560417201156</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Wrote a few blackboard tests">
+      <created>1560497835627</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1560497835627</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Wrote a few blackboard tests">
+      <created>1560503859617</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1560503859617</updated>
+    </task>
+    <task id="LOCAL-00027" summary="improved stats, working on testing">
+      <created>1560675423492</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1560675423492</updated>
+    </task>
+    <task id="LOCAL-00028" summary="improved stats, working on testing">
+      <created>1560730600313</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1560730600313</updated>
+    </task>
+    <task id="LOCAL-00029" summary="stats is fully functional, whitebox testing is done&#10;cleaned up warnings">
+      <created>1560749975572</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1560749975572</updated>
+    </task>
+    <task id="LOCAL-00030" summary="warnings-cleaned">
+      <created>1560750399288</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1560750399288</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added stuff to readme">
+      <created>1560765536743</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1560765536743</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update to readme">
+      <created>1560765608483</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1560765608483</updated>
+    </task>
+    <task id="LOCAL-00033" summary="readme complete">
+      <created>1560766953825</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1560766953825</updated>
+    </task>
+    <task id="LOCAL-00034" summary="correct the log levels">
+      <created>1560772408691</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1560772408691</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BlackBoxTests_testStatusCode400Post - 2019.06.18 at 02h 32m 46s.xml">
+      <configuration name="BlackBoxTests.testStatusCode400Post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests_testJSONContentType - 2019.06.18 at 02h 33m 44s.xml">
+      <configuration name="BlackBoxTests.testJSONContentType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests_testStatusCode400Post - 2019.06.18 at 02h 34m 48s.xml">
+      <configuration name="BlackBoxTests.testStatusCode400Post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests_testStatusCode400Post - 2019.06.18 at 02h 39m 38s.xml">
+      <configuration name="BlackBoxTests.testStatusCode400Post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests_testStatusCode400Post - 2019.06.18 at 02h 40m 43s.xml">
+      <configuration name="BlackBoxTests.testStatusCode400Post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WhiteBoxTests - 2019.06.18 at 02h 42m 05s.xml">
+      <configuration name="WhiteBoxTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WhiteBoxTests - 2019.06.18 at 02h 43m 11s.xml">
+      <configuration name="WhiteBoxTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests - 2019.06.18 at 02h 43m 30s.xml">
+      <configuration name="BlackBoxTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WhiteBoxTests - 2019.06.18 at 02h 49m 35s.xml">
+      <configuration name="WhiteBoxTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBoxTests - 2019.06.18 at 02h 49m 57s.xml">
+      <configuration name="BlackBoxTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149216000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13568376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.28854626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.2246696" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50061053" side_tool="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32819384" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32819384" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32903227" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3809524" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24969475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.13308914" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="started whitebox testing with springframework" />
+    <MESSAGE value="stats servlet" />
+    <MESSAGE value="messing around with logs" />
+    <MESSAGE value="log4j.properties file added" />
+    <MESSAGE value="started json output" />
+    <MESSAGE value="json format" />
+    <MESSAGE value="Big Commit of assignment, most of code now works, still need to do stats and all of testing" />
+    <MESSAGE value="started testing" />
+    <MESSAGE value="implemented jar support when you run mvn package for log monitor and random logs&#10;&#10;tests dont work" />
+    <MESSAGE value="port 8080 is already in use error" />
+    <MESSAGE value="test1 working!" />
+    <MESSAGE value="spot bugs working" />
+    <MESSAGE value="reimplemented jar files" />
+    <MESSAGE value="jacoco works, sportbugs works, jdepend works" />
+    <MESSAGE value="pushing for no reason" />
+    <MESSAGE value="Wrote a few blackboard tests" />
+    <MESSAGE value="improved stats, working on testing" />
+    <MESSAGE value="stats is fully functional, whitebox testing is done" />
+    <MESSAGE value="stats is fully functional, whitebox testing is done&#10;cleaned up warnings" />
+    <MESSAGE value="warnings" />
+    <MESSAGE value="warnings-cleaned" />
+    <MESSAGE value="added stuff to readme" />
+    <MESSAGE value="update to readme" />
+    <MESSAGE value="readme complete" />
+    <MESSAGE value="correct the log levels" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct the log levels" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mockedServletResponse</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/helloworld.java" />
+    <entry file="file://$PROJECT_DIR$/jetty.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/AddLogParams.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/SearchLogsParams.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Priority.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/LogsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nz/ac/vuw/swen301/assignment3/server/StatsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/WhiteBoxTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1517">
+          <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nz/ac/vuw/swen301/assignment3/server/BlackBoxTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>appframework-1.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>assignment3-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
